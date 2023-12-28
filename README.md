@@ -1,3 +1,4 @@
+<h1 align="center">
 Awesome-ShellSite-Side-Hustle
 </h1>
 <p align="center">
