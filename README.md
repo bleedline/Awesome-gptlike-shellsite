@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/bleedline/Awesome-ShellSite-Side-Hustle/assets/69669728/21295e6b-74eb-47d0-bc3c-da107ba2648a)![image](https://github.com/bleedline/Awesome-ShellSite-Side-Hustle/assets/69669728/331bfaa2-57f4-4b3f-bd67-569a311dc0c0)<h1 align="center">
 Awesome-ShellSite-Side-Hustle
 </h1>
 <p align="center">
@@ -46,12 +46,106 @@ Awesome-ShellSite-Side-Hustle
 
   <tr>
     <td>1.</td>
-    <td><a href="https://chat10.aiyunos.top" target="_blank"> Aiyunos.top </a> </td>
-    <td>😄⭐</td>
-    <td> GPT4</td> 
-    <td><a href="https://chat10.aiyunos.top" target="_blank">🔗 </a> </td> 
+    <td><a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web" target="_blank"> chatgptnextweb </a> </td>
+    <td>😄⭐🏬</td>
+    <td>一键免费部署你的跨平台私人ChatGPT应用,支持GPT3,GPT4&GeminiPro模型</td> 
+    <td><a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web" target="_blank">🔗 </a> </td> 
   </tr>
 
+  <tr>
+    <td>2.</td>
+    <td><a href="https://github.com/pandora-next/deploy/tree/master" target="_blank"> pandora-next </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/pandora-next/deploy/tree/master" target="_blank">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>3.</td>
+    <td><a href="https://github.com/lobehub/lobe-chat" target="_blank"> lobehub </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/lobehub/lobe-chat" target="_blank">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>4.</td>
+    <td><a href="https://github.com/ollama-webui/ollama-webui" target="_blank"> ollama-webui </a> </td>
+    <td>😄⭐</td>
+    <td></td> 
+    <td><a href="https://github.com/ollama-webui/ollama-webui" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>5.</td>
+    <td><a href="https://github.com/AprilNEA/ChatGPT-Admin-Web" target="_blank"> ChatGPT-Admin-Web </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/AprilNEA/ChatGPT-Admin-Web" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>6.</td>
+    <td><a href="https://github.com/lencx/ChatGPT" target="_blank"> ChatGPT </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/lencx/ChatGPT" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>7.</td>
+    <td><a href="https://github.com/Nanjiren01/AIChatWeb" target="_blank"> AIchatweb </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/Nanjiren01/AIChatWeb" target="_blank">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>8.</td>
+    <td><a href="https://github.com/Chanzhaoyu/chatgpt-web" target="_blank"> chatgpt-web </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/Chanzhaoyu/chatgpt-web" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>9.</td>
+    <td><a href="https://github.com/202252197/ChatGPT_JCM" target="_blank"> ChatGPT_JCM </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/202252197/ChatGPT_JCM" target="_blank">🔗 </a> </td> 
+  </tr>
+
+</table>
+
+### 微信机器人
+
+<table>
+
+  <tr>
+    <td>1.</td>
+    <td><a href="https://github.com/zhayujie/chatgpt-on-wechat" target="_blank"> chatgpt-on-wechat </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/zhayujie/chatgpt-on-wechat" target="_blank">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>2.</td>
+    <td><a href="https://github.com/lss233/chatgpt-mirai-qq-bot" target="_blank"> chatgpt-mirai-qq-bot </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/lss233/chatgpt-mirai-qq-bot" target="_blank">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>3.</td>
+    <td><a href="https://github.com/fuergaosi233/wechat-chatgpt" target="_blank"> wevhat-chatgpt </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/fuergaosi233/wechat-chatgpt" target="_blank">🔗 </a> </td> 
+  </tr>
+  
 </table>
 
 ### MJ/SD
@@ -60,12 +154,44 @@ Awesome-ShellSite-Side-Hustle
 
   <tr>
     <td>1.</td>
-    <td><a href="https://chat10.aiyunos.top" target="_blank"> Aiyunos.top </a> </td>
-    <td>😄⭐</td>
-    <td> GPT4</td> 
-    <td><a href="https://chat10.aiyunos.top" target="_blank">🔗 </a> </td> 
+    <td><a href="https://github.com/Licoy/ChatGPT-Midjourney" target="_blank"> ChatGPT-MIdjourney </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/Licoy/ChatGPT-Midjourney" target="_blank">🔗 </a> </td> 
   </tr>
-
+  
+  <tr>
+    <td>2.</td>
+    <td><a href="https://github.com/yuanyuekeji/stable-diffusion-mobileui" target="_blank"> MIdjourney-web </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/yuanyuekeji/stable-diffusion-mobileui" target="_blank">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>3.</td>
+    <td><a href="https://github.com/ConnectAI-E/MidJourney-Web" target="_blank"> stable-diffusion-mobileui </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/ConnectAI-E/MidJourney-Web" target="_blank">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>4.</td>
+    <td><a href="https://github.com/Dooy/chatgpt-web-midjourney-proxy" target="_blank"> ChatGPT-Web-Midjourney-Proxy </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/Dooy/chatgpt-web-midjourney-proxy" target="_blank">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>5.</td>
+    <td><a href="https://github.com/novicezk/midjourney-proxy" target="_blank"> MIdjourney-proxy </a> </td>
+    <td>😄⭐🏬</td>
+    <td></td> 
+    <td><a href="https://github.com/novicezk/midjourney-proxy" target="_blank">🔗 </a> </td> 
+  </tr>
+  
 </table>
 
 # 精选api
@@ -95,13 +221,68 @@ Awesome-ShellSite-Side-Hustle
 ### ChatGPT
 
 <table>
-
+  <tr>
+    <td></td>
+    <td> 站点名称 </td>
+    <td>gpt-3.5-turbo-api价格</td>
+    <td>GPT4-api价格</td> 
+    <td>访问地址</td> 
+  </tr>
+    
   <tr>
     <td>1.</td>
-    <td><a href="https://chat10.aiyunos.top" target="_blank"> Aiyunos.top </a> </td>
-    <td>😄⭐</td>
-    <td> GPT4</td> 
-    <td><a href="https://chat10.aiyunos.top" target="_blank">🔗 </a> </td> 
+    <td><a href="https://api.fast-tunnel.one/" target="_blank"> 笔墨API </a> </td>
+    <td>$0.0015/1K tokens</td>
+    <td>$0.03/1K tokens</td> 
+    <td><a href="https://api.fast-tunnel.one/" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td><a href="https://openkey.cloud/" target="_blank"> OpenKEY </a> </td>
+    <td>$0.0075/1K tokens</td>
+    <td>$0.48/1K tokens</td> 
+    <td><a href="https://openkey.cloud/" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>3.</td>
+    <td><a href="https://aikey.one/about" target="_blank"> Aikey </a> </td>
+    <td>$0.015/1K tokens</td>
+    <td>$0.035/1K tokens</td> 
+    <td><a href="https://aikey.one/about" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>4.</td>
+    <td><a href="https://one.aiskt.com/" target="_blank"> AISKT API聚合</a> </td>
+    <td>未展示</td>
+    <td>未展示</td> 
+    <td><a href="https://one.aiskt.com/" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>5.</td>
+    <td><a href="https://www.closeai-asia.com/" target="_blank"> closeAI </a> </td>
+    <td>$0.0015/1K tokens</td>
+    <td>$0.03/1K tokens</td> 
+    <td><a href="https://www.closeai-asia.com/" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>6.</td>
+    <td><a href="https://www.ohmygpt.com/" target="_blank"> OhMyGPT </a> </td>
+    <td>官方价格的1.5倍</td>
+    <td>官方价格的1.5倍</td> 
+    <td><a href="https://www.ohmygpt.com/" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>7.</td>
+    <td><a href="https://api2d.com/" target="_blank"> API2D </a> </td>
+    <td>$0.002/1K tokens</td>
+    <td>$0.03/1K tokens</td> 
+    <td><a href="https://api2d.com/" target="_blank">🔗 </a> </td> 
   </tr>
 
 </table>
@@ -111,13 +292,25 @@ Awesome-ShellSite-Side-Hustle
 <table>
 
   <tr>
+    <td></td>
+    <td> 站点名称 </td>
+    <td>MJPro价格</td>
+    <td>访问地址</td> 
+  </tr>
+    
+  <tr>
     <td>1.</td>
-    <td><a href="https://chat10.aiyunos.top" target="_blank"> Aiyunos.top </a> </td>
-    <td>😄⭐</td>
-    <td> GPT4</td> 
-    <td><a href="https://chat10.aiyunos.top" target="_blank">🔗 </a> </td> 
+    <td><a href="https://ventureai.cn/#/" target="_blank"> venture AI </a> </td>
+    <td>￥0.2/次</td>
+    <td><a href="https://ventureai.cn/#/" target="_blank">🔗 </a> </td> 
   </tr>
 
+  <tr>
+    <td>1.</td>
+    <td><a href="https://www.mymidjourney.ai/" target="_blank"> mymidjourney.ai </a> </td>
+    <td>$45/month</td>
+    <td><a href="https://www.mymidjourney.ai/" target="_blank">🔗 </a> </td> 
+  </tr>
 </table>
 
 # 精选云服务器
