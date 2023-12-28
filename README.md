@@ -1,4 +1,3 @@
-![image](https://github.com/bleedline/Awesome-ShellSite-Side-Hustle/assets/69669728/21295e6b-74eb-47d0-bc3c-da107ba2648a)![image](https://github.com/bleedline/Awesome-ShellSite-Side-Hustle/assets/69669728/331bfaa2-57f4-4b3f-bd67-569a311dc0c0)<h1 align="center">
 Awesome-ShellSite-Side-Hustle
 </h1>
 <p align="center">
