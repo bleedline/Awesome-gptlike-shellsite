@@ -56,7 +56,7 @@ Awesome-gptlike-shellsite
     <td>2.</td>
     <td><a href="https://github.com/pandora-next/deploy/tree/master" target="_blank"> pandora-next </a> </td>
     <td>😄⭐🏬</td>
-    <td></td> 
+    <td>潘多拉云+潘多拉服务器+共享聊天+后端API代理+Chat2API+免费注册=潘多拉，下一个新的GPT（Gizmo）UI，多合一！</td> 
     <td><a href="https://github.com/pandora-next/deploy/tree/master" target="_blank">🔗 </a> </td> 
   </tr>
   
@@ -64,7 +64,7 @@ Awesome-gptlike-shellsite
     <td>3.</td>
     <td><a href="https://github.com/lobehub/lobe-chat" target="_blank"> lobehub </a> </td>
     <td>😄⭐🏬</td>
-    <td></td> 
+    <td>Lobe Chat - 一个开源的高性能聊天机器人框架，支持语音合成、多模态和可扩展的函数调用插件系统。</td> 
     <td><a href="https://github.com/lobehub/lobe-chat" target="_blank">🔗 </a> </td> 
   </tr>
   
@@ -72,7 +72,7 @@ Awesome-gptlike-shellsite
     <td>4.</td>
     <td><a href="https://github.com/ollama-webui/ollama-webui" target="_blank"> ollama-webui </a> </td>
     <td>😄⭐</td>
-    <td></td> 
+    <td>适用于 Ollama 🦙 的 ChatGPT 风格的 Web UI 客户端</td> 
     <td><a href="https://github.com/ollama-webui/ollama-webui" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -88,7 +88,7 @@ Awesome-gptlike-shellsite
     <td>6.</td>
     <td><a href="https://github.com/lencx/ChatGPT" target="_blank"> ChatGPT </a> </td>
     <td>😄⭐🏬</td>
-    <td></td> 
+    <td>ChatGPT 桌面应用程序（Mac、Windows 和 Linux）</td> 
     <td><a href="https://github.com/lencx/ChatGPT" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -96,7 +96,7 @@ Awesome-gptlike-shellsite
     <td>7.</td>
     <td><a href="https://github.com/Nanjiren01/AIChatWeb" target="_blank"> AIchatweb </a> </td>
     <td>😄⭐🏬</td>
-    <td></td> 
+    <td>在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。</td> 
     <td><a href="https://github.com/Nanjiren01/AIChatWeb" target="_blank">🔗 </a> </td> 
   </tr>
   
@@ -112,7 +112,7 @@ Awesome-gptlike-shellsite
     <td>9.</td>
     <td><a href="https://github.com/202252197/ChatGPT_JCM" target="_blank"> ChatGPT_JCM </a> </td>
     <td>😄⭐🏬</td>
-    <td></td> 
+    <td>OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作（所有模型、图片、音频、微调、文件）等</td> 
     <td><a href="https://github.com/202252197/ChatGPT_JCM" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -140,6 +140,70 @@ Awesome-gptlike-shellsite
     <td><a href="https://github.com/79E/ChatGpt-Web" target="_blank">🔗 </a> </td> 
   </tr>
 
+  <tr>
+    <td>13.</td>
+    <td><a href="https://github.com/chatgpt-web-plus/free" target="_blank"> chatgpt-web-plus/免费</a> </td>
+    <td></td>
+    <td>ChatGPT Web Plus 体验版</td> 
+    <td><a href="https://github.com/chatgpt-web-plus/free" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>14.</td>
+    <td><a href="https://github.com/79E/ChatGpt-Web" target="_blank"> ChatGpt-Web </a> </td>
+    <td>🏬</td>
+    <td>使用React搭建的一款可商业化的ChatGpt Web应用。 | 低版本开源 高版本付费</td> 
+    <td><a href="https://github.com/79E/ChatGpt-Web" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>15.</td>
+    <td><a href="https://github.com/a616567126/GPT-WEB-JAVA" target="_blank"> GPT-网络-JAVA </a> </td>
+    <td>⭐🏬</td>
+    <td>基于JDK8 AI 聊天机器人！支持ChatGPT、Midjourney画图、flagstudio画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册</td> 
+    <td><a href="https://github.com/a616567126/GPT-WEB-JAVA" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>16.</td>
+    <td><a href="https://www.nsmao.com/post/3819" target="_blank"> 奈斯AI</a> </td>
+    <td>🏬</td>
+    <td>奈斯AI智能对话-AI绘图Chat</td> 
+    <td><a href="https://www.nsmao.com/post/3819" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>17.</td>
+    <td><a href="https://github.com/yangjian102621/chatgpt-plus" target="_blank"> chatgpt-plus </a> </td>
+    <td>😄⭐🏬</td>
+    <td>基于 OpenAI API 实现的 ChatGPT Web 应用，包括通用版和角色版。自带管理后台，采用 Go + Vue3 + element-plus 实现。</td> 
+    <td><a href="https://github.com/yangjian102621/chatgpt-plus" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>18.</td>
+    <td><a href="https://github.com/putyy/chatgpt" target="_blank"> chatgpt </a> </td>
+    <td>😄⭐🏬</td>
+    <td>uniapp、hyperf MineAdmin 实现的 chatgpt应用，支持小程序、h5、app！</td> 
+    <td><a href="https://github.com/putyy/chatgpt" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>19.</td>
+    <td><a href="https://github.com/vastsa/AILink" target="_blank"> AILink </a> </td>
+    <td>⭐🏬</td>
+    <td>ChatGPT 商业版，支持Midjourney绘图，GPT4，Cluade，Azure，微信登录，思维导图，文心，智谱，通义</td> 
+    <td><a href="https://github.com/vastsa/AILink" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>20.</td>
+    <td><a href="https://github.com/swuecho/chat" target="_blank"> chat </a> </td>
+    <td>😄🏬</td>
+    <td>Teams 的聊天 Web 应用程序，具有用户管理和速率限制的 SASS，支持 ChatGPT（OpenAI 和 Azure）、Claude 或自定义模型</td> 
+    <td><a href="https://github.com/swuecho/chat" target="_blank">🔗 </a> </td> 
+  </tr>
+
 </table>
 
 ### 微信机器人
@@ -150,24 +214,61 @@ Awesome-gptlike-shellsite
     <td>1.</td>
     <td><a href="https://github.com/zhayujie/chatgpt-on-wechat" target="_blank"> chatgpt-on-wechat </a> </td>
     <td>😄⭐🏬</td>
-    <td></td> 
+    <td>使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网。</td> 
     <td><a href="https://github.com/zhayujie/chatgpt-on-wechat" target="_blank">🔗 </a> </td> 
   </tr>
   
   <tr>
     <td>2.</td>
     <td><a href="https://github.com/lss233/chatgpt-mirai-qq-bot" target="_blank"> chatgpt-mirai-qq-bot </a> </td>
-    <td>😄⭐🏬</td>
-    <td></td> 
+    <td>😄🏬</td>
+    <td>一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送</td> 
     <td><a href="https://github.com/lss233/chatgpt-mirai-qq-bot" target="_blank">🔗 </a> </td> 
   </tr>
   
   <tr>
     <td>3.</td>
     <td><a href="https://github.com/fuergaosi233/wechat-chatgpt" target="_blank"> wevhat-chatgpt </a> </td>
-    <td>😄⭐🏬</td>
-    <td></td> 
+    <td>😄🏬</td>
+    <td>通过微信在微信上使用ChatGPT</td> 
     <td><a href="https://github.com/fuergaosi233/wechat-chatgpt" target="_blank">🔗 </a> </td> 
+
+  <tr>
+    <td>4.</td>
+    <td><a href="https://github.com/kx-Huang/ChatGPT-on-WeChat" target="_blank"> ChatGPT-on-WeChat </a> </td>
+    <td>😄🏬</td>
+    <td>两步在云端部署你的微信ChatGPT聊天机器人</td> 
+    <td><a href="https://github.com/kx-Huang/ChatGPT-on-WeChat" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>5.</td>
+    <td><a href="https://github.com/gallonyin/worktool" target="_blank"> worktool </a> </td>
+    <td>😄⭐🏬</td>
+    <td>【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT</td> 
+    <td><a href="https://github.com/gallonyin/worktool" target="_blank">🔗 </a> </td> 
+
+  <tr>
+    <td>6.</td>
+    <td><a href="https://github.com/shfshanyue/wechat-chatgpt" target="_blank"> wechat-chatgpt </a> </td>
+    <td>😄⭐🏬</td>
+    <td>基于 ChatGPT/MidJourney 的 AI 助手微信机器人，支持个人微信与企业微信，支持客服模式并实时更新</td> 
+    <td><a href="https://github.com/shfshanyue/wechat-chatgpt" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>7.</td>
+    <td><a href="https://github.com/whyiyhw/chatgpt-wechat" target="_blank"> chatgpt-wechat </a> </td>
+    <td>😄⭐🏬</td>
+    <td>企业微信/微信 安全使用的 ChatGPT 个人助手应用</td> 
+    <td><a href="https://github.com/whyiyhw/chatgpt-wechat" target="_blank">🔗 </a> </td> 
+
+  <tr>
+    <td>8.</td>
+    <td><a href="https://github.com/yqchilde/wxbot" target="_blank"> wxbot </a> </td>
+    <td>😄⭐🏬</td>
+    <td>一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...</td> 
+    <td><a href="https://github.com/yqchilde/wxbot" target="_blank">🔗 </a> </td> 
   </tr>
   
 </table>
@@ -180,7 +281,7 @@ Awesome-gptlike-shellsite
     <td>1.</td>
     <td><a href="https://github.com/Licoy/ChatGPT-Midjourney" target="_blank"> ChatGPT-MIdjourney </a> </td>
     <td>😄⭐🏬</td>
-    <td></td> 
+    <td>一键拥有你自己的 ChatGPT+Midjourney 网页服务 |一键拥有自己的 ChatGPT+Midjourney 网络服务</td> 
     <td><a href="https://github.com/Licoy/ChatGPT-Midjourney" target="_blank">🔗 </a> </td> 
   </tr>
   
@@ -188,15 +289,15 @@ Awesome-gptlike-shellsite
     <td>2.</td>
     <td><a href="https://github.com/yuanyuekeji/stable-diffusion-mobileui" target="_blank"> MIdjourney-web </a> </td>
     <td>😄⭐🏬</td>
-    <td></td> 
+    <td>基于一键包搭建的stable-diffusion，推出适配移动端的界面UI，可以生成H5和微信小程序。</td> 
     <td><a href="https://github.com/yuanyuekeji/stable-diffusion-mobileui" target="_blank">🔗 </a> </td> 
   </tr>
   
   <tr>
     <td>3.</td>
     <td><a href="https://github.com/ConnectAI-E/MidJourney-Web" target="_blank"> stable-diffusion-mobileui </a> </td>
-    <td>😄⭐🏬</td>
-    <td></td> 
+    <td>⭐🏬</td>
+    <td>追求极致创作体验 Midjourney Web |在 Web UI 上为 MidJourney 提供超强体验</td> 
     <td><a href="https://github.com/ConnectAI-E/MidJourney-Web" target="_blank">🔗 </a> </td> 
   </tr>
   
@@ -204,15 +305,15 @@ Awesome-gptlike-shellsite
     <td>4.</td>
     <td><a href="https://github.com/Dooy/chatgpt-web-midjourney-proxy" target="_blank"> ChatGPT-Web-Midjourney-Proxy </a> </td>
     <td>😄⭐🏬</td>
-    <td></td> 
+    <td>ChatGPT web， midjourney， gpts，tts， whisper 一套ui全搞定</td> 
     <td><a href="https://github.com/Dooy/chatgpt-web-midjourney-proxy" target="_blank">🔗 </a> </td> 
   </tr>
   
   <tr>
     <td>5.</td>
     <td><a href="https://github.com/novicezk/midjourney-proxy" target="_blank"> MIdjourney-proxy </a> </td>
-    <td>😄⭐🏬</td>
-    <td></td> 
+    <td>😄⭐</td>
+    <td>代理 MidJourney 的discord频道，实现api形式调用AI绘图</td> 
     <td><a href="https://github.com/novicezk/midjourney-proxy" target="_blank">🔗 </a> </td> 
   </tr>
   
@@ -333,7 +434,7 @@ Awesome-gptlike-shellsite
   </tr>
 
   <tr>
-    <td>1.</td>
+    <td>2.</td>
     <td><a href="https://www.mymidjourney.ai/" target="_blank"> mymidjourney.ai </a> </td>
     <td>$45/month</td>
     <td><a href="https://www.mymidjourney.ai/" target="_blank">🔗 </a> </td> 
@@ -357,6 +458,43 @@ Awesome-gptlike-shellsite
     - **A**：可以使用，但国内服务器无法直接从git拉取文件，需要手动操作一下，另外国内由于涉及数据出海，所以对大模型服务有严格备案要求，套壳站有法律风险，无法运作。如果非要运作，建议使用国外域名和国外服务器 以下是我们的推荐。
 
 ## 云服务器推荐
+### 云服务器
+
+<table>
+
+  <tr>
+    <td></td>
+    <td> 服务器名称 </td>
+    <td>国内/外商家</td>
+    <td>地区</td>
+    <td>访问地址</td> 
+  </tr>
+    
+  <tr>
+    <td>1.</td>
+    <td><a href="https://spartanhost.org/" target="_blank"> 斯巴达 </a> </td>
+    <td>国外</td>
+    <td>美国</td>
+    <td><a href="https://spartanhost.org/" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td><a href="https://www.racknerd.com/">Racknerd </a> </td>
+    <td>国外</td>
+    <td>美国</td>
+    <td><a href="https://www.racknerd.com/" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>3.</td>
+    <td><a href="https://account.aliyun.com/" target="_blank"> 阿里云 </a> </td>
+    <td>国内/外</td>
+    <td>中国</td>
+    <td><a href="https://account.aliyun.com/" target="_blank">🔗 </a> </td> 
+  </tr>
+  
+</table>
 
 # 运营策略
 ## 我该怎么规划我自己套壳站来产生差异化
