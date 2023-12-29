@@ -1,5 +1,5 @@
 <h1 align="center">
-Awesome-ShellSite-Side-Hustle
+Awesome-gptlike-shellsite
 </h1>
 <p align="center">
 </p>
@@ -79,8 +79,8 @@ Awesome-ShellSite-Side-Hustle
   <tr>
     <td>5.</td>
     <td><a href="https://github.com/AprilNEA/ChatGPT-Admin-Web" target="_blank"> ChatGPT-Admin-Web </a> </td>
-    <td>😄⭐🏬</td>
-    <td></td> 
+    <td>😄⭐</td>
+    <td>带有用户管理和后台管理系统的 ChatGPT WebUI</td> 
     <td><a href="https://github.com/AprilNEA/ChatGPT-Admin-Web" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -103,8 +103,8 @@ Awesome-ShellSite-Side-Hustle
   <tr>
     <td>8.</td>
     <td><a href="https://github.com/Chanzhaoyu/chatgpt-web" target="_blank"> chatgpt-web </a> </td>
-    <td>😄⭐🏬</td>
-    <td></td> 
+    <td>⭐🏬</td>
+    <td>用 Express 和 Vue3 搭建的 ChatGPT 演示网页 | 开源，pro版本收费</td> 
     <td><a href="https://github.com/Chanzhaoyu/chatgpt-web" target="_blank">🔗 </a> </td> 
   </tr>
 
@@ -114,6 +114,30 @@ Awesome-ShellSite-Side-Hustle
     <td>😄⭐🏬</td>
     <td></td> 
     <td><a href="https://github.com/202252197/ChatGPT_JCM" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>10.</td>
+    <td><a href="https://github.com/gptlink/gptlink" target="_blank"> gptlink </a> </td>
+    <td>😄⭐🏬</td>
+    <td>只需简单几步，即可快速搭建可用的 AI对话站点，包含用户，订单，任务，付费等功能</td> 
+    <td><a href="https://github.com/gptlink/gptlink" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>11.</td>
+    <td><a href="https://github.com/c121914yu/FastGPT" target="_blank"> FastGPT </a> </td>
+    <td>😄⭐</td>
+    <td>一个使用OpenAI API来快速建立人工智能知识库的平台，提供开箱即用的数据处理、模型调用等能力。</td> 
+    <td><a href="https://github.com/c121914yu/FastGPT" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>12.</td>
+    <td><a href="https://github.com/79E/ChatGpt-Web" target="_blank"> ChatGpt-Web </a> </td>
+    <td>🏬</td>
+    <td>使用React搭建的一款可商业化的ChatGpt Web应用。 | 低版本开源 高版本付费</td> 
+    <td><a href="https://github.com/79E/ChatGpt-Web" target="_blank">🔗 </a> </td> 
   </tr>
 
 </table>
