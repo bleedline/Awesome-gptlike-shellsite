@@ -36,7 +36,7 @@ Awesome-gptlike-shellsite
 ## 套壳站推荐
 **去哪里找壳比较好**：Github上有一些开源的项目，我们为大家整理了一些，但是更多需求还需自己去寻找合适的"壳"
 
-**最推荐的是哪个**：如果是部署卖钱，最推荐chat-plus（列表第17位，https://github.com/yangjian102621/chatgpt-plus），  这个站点功能整合很全。
+**最推荐的是哪个**：如果是部署卖钱，最推荐<a href="https://github.com/yangjian102621/chatgpt-plus">chat-plus</a>（列表第17位），理由是这个站点功能整合很全。
 
 **标注说明**
 
