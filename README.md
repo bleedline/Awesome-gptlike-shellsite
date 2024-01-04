@@ -415,6 +415,14 @@ Awesome-gptlike-shellsite
     <td><a href="https://api2d.com/" target="_blank">🔗 </a> </td> 
   </tr>
 
+  <tr>
+    <td>8.</td>
+    <td><a href="http://pay.liulinlin.top/" target="_blank"> QuickChat API </a> </td>
+    <td>官方计费 tokens</td>
+    <td>官方计费 tokens</td> 
+    <td><a href="http://pay.liulinlin.top/" target="_blank">🔗 </a> </td> 
+  </tr>
+  
 </table>
 
 ### MJ/SD
