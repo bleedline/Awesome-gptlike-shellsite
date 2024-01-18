@@ -469,7 +469,8 @@ Awesome-gptlike-shellsite
 
 ## 云服务器推荐
 ### 云服务器
-
+最推荐extravm.com，美国服务器，稳定，无限流量。<a href="https://extravm.com/billing/aff.php?aff=680">点击进入</a>
+域名可以在<a href="http://www.dynadot.com?s8T7k7L6l9X8c8U8M">dynadot</a>购买，相对便宜
 <table>
 
   <tr>
