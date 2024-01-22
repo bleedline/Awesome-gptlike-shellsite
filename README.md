@@ -348,7 +348,7 @@ Awesome-gptlike-shellsite
 
 ## api推荐
 
-推荐使用<a href="https://api.modelless.co/register?aff=NoFw">Shimmer Hub</a>这个API聚合服务，美元人民币1:1
+推荐使用<a href="https://api.gptnb.me/register?aff=NoFw">Shimmer Hub</a>这个API聚合服务，美元人民币1:1
 ### ChatGPT
 
 <table>
