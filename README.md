@@ -206,6 +206,30 @@ Awesome-gptlike-shellsite
     <td><a href="https://github.com/swuecho/chat" target="_blank">🔗 </a> </td> 
   </tr>
 
+  <tr>
+    <td>21.</td>
+    <td><a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web" target="_blank"> ChatGPT-Next-Web </a> </td>
+    <td>😄⭐🏬</td>
+    <td>一键免费部署你的跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。</td> 
+    <td><a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>22.</td>
+    <td><a href="https://chat.apeto.cn/#/ai/commodity" target="_blank"> Genius-AI </a> </td>
+    <td>😄⭐</td>
+    <td>geniusAI项目是一个商用版服务平台，基于Java语言实现服务端功能，前端使用React框架。用户可以私有化部署商业版GPT平台。</td> 
+    <td><a href="https://chat.apeto.cn/#/ai/commodity" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>23.</td>
+    <td><a href="https://github.com/jinmiao/chatgpt_android" target="_blank"> chatgpt_android </a> </td>
+    <td>😄🏬</td>
+    <td>私人定制 AI，只要在 App 里设置你的 Openai API Key，就可以随时随地和 AI 聊天，并且支持上下文对话，聊天历史随时查看。</td> 
+    <td><a href="https://github.com/jinmiao/chatgpt_android" target="_blank">🔗 </a> </td> 
+  </tr>
+  
 </table>
 
 ### 微信机器人
@@ -422,6 +446,30 @@ Awesome-gptlike-shellsite
     <td>官方计费 tokens</td>
     <td>官方计费 tokens</td> 
     <td><a href="http://pay.liulinlin.top/" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>9.</td>
+    <td><a href="https://go.yufu.pub/" target="_blank"> yufu </a> </td>
+    <td>官方计费 tokens</td>
+    <td>官方计费 tokens</td> 
+    <td><a href="https://go.yufu.pub/" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>10.</td>
+    <td><a href="https://api.xgptnova.club/" target="_blank"> api.xgptnova </a> </td>
+    <td>$0.0015/1K tokens</td>
+    <td>$0.03/1K tokens</td> 
+    <td><a href="https://api.xgptnova.club/" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>11.</td>
+    <td><a href="https://www.ezapi.top/" target="_blank"> ezapi </a> </td>
+    <td>$0.0015/1K tokens</td>
+    <td>$0.03/1K tokens</td> 
+    <td><a href="https://www.ezapi.top/" target="_blank">🔗 </a> </td> 
   </tr>
   
 </table>
