@@ -34,7 +34,7 @@ Awesome-gptlike-shellsite
 套壳站页面来源：[NextChat （ChatGPT Next Web）](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
 ![GitHub Logo](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/raw/main/docs/images/cover.png)
 ## 套壳站推荐
-**去哪里找壳比较好**：Github上有一些开源的项目，我们为大家整理了一些，但是更多需求还需自己去寻找合适的"壳"
+**去哪里找壳比较好**：GitHub上有一些开源的项目，我们为大家整理了一些，但是更多需求还需自己去寻找合适的"壳"
 
 **最推荐的是哪个**：如果是部署卖钱，最推荐<a href="https://github.com/yangjian102621/chatgpt-plus">chat-plus</a>（列表第17位），理由是这个站点功能整合很全。
 
@@ -347,7 +347,7 @@ Awesome-gptlike-shellsite
 
 # 精选api
 ## 便宜且高并发的api又去哪里找
-- **去哪里选择API服务更好**：开源社区Github，和一些AI社群，以及API的相关上下游链条（如别的套壳站的Github）
+- **去哪里选择API服务更好**：开源社区GitHub，和一些AI社群，以及API的相关上下游链条（如别的套壳站的GitHub）
 - **如何获取API密钥**：在提供商的网站上创建账户，完成注册后，通常会获得一个API密钥，用于访问服务。
 - **阅读文档**：熟悉API的使用方法，包括如何发送请求和解析响应。
 
