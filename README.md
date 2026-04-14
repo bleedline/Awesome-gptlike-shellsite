@@ -573,5 +573,6 @@ Awesome-gptlike-shellsite
 - **会员收入**：会员制，功能设限，付费解锁，会员套餐按需付费。
 - **教育和培训**：提供在线培训课程，收费提供专业培训和咨询。
 - **合作和伙伴关系**：与其他技术公司、创业公司或行业领袖建立合作伙伴关系。制定共同营销或共同开发项目，共享盈利。
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 承蒙大家喜爱，网站更新后带来了新的问题与挑战，恐有不周，望请包含！我们免费帮大家筛选整理信息是希望大家能够零门槛了解到AI世界，让更多人平等地享受AI带来的机遇红利，我们没有忘记自己的初心，也希望能大家一起学习，一起成长，一起进步，我们也非常欢迎各位为我们提出意见和建议，帮助我们做的更好！
