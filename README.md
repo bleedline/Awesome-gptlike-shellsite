@@ -565,6 +565,9 @@ Awesome-gptlike-shellsite
 - **社交媒体宣传**：最直接，最有效，最迅速的推广，优点是最快速度传播提高基数并且与相关领域人员产生互动，缺点是成本不小，有效客户不见得多。
 - **合作伙伴推广**：靶向推广，可以借部分流量，最优质的推广，合作伙伴可以是其他同类产品，可以是业内大佬，也可以是各种门户网站，总之这些人与你是一个圈子里的伙伴，优点是一些合作伙伴已经帮你筛选过了用户，用户也比较优质，核心用户率和转化率都相对高一点，缺点是很多合作都有合作门槛。
 - **参加社群**：活跃在各大社群，多参与交流，提高曝光度。
+- [PromptImage](https://promptimage.cloud)：Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design)：Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev)：Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 ## 最靠谱的套壳站赚钱方式是什么
 - **已有流量池**：如果你有明确的流量池，如学生。你可以搭建他们需要的GPT套壳站，如写论文。
 - **已有分销渠道**：如果你有明确的分销渠道，可以在套壳站为他们开通代理，让代理帮助你售卖。
