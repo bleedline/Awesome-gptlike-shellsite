@@ -568,6 +568,9 @@ Awesome-gptlike-shellsite
 - [PromptImage](https://promptimage.cloud)：Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 - [TeslaWraps](https://teslawraps.design)：Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
 - [GrokVideo Studio](https://grokvideogenerator.dev)：Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 ## 最靠谱的套壳站赚钱方式是什么
 - **已有流量池**：如果你有明确的流量池，如学生。你可以搭建他们需要的GPT套壳站，如写论文。
 - **已有分销渠道**：如果你有明确的分销渠道，可以在套壳站为他们开通代理，让代理帮助你售卖。
